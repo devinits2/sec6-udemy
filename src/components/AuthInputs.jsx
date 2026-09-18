@@ -54,7 +54,7 @@ export default function AuthInputs() {
       </ControlContainer>
       <div className="actions">
         <button type="button" className="text-button">
-          Create a new account! HELLO!!!
+          Create a new account! HELLO!!! Mo cua diiii
         </button>
         <Button onClick={handleLogin}>Sign In</Button>
       </div>
